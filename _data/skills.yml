@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: C++
+  description: 메모리에 데이터가 할당되는 원리를 알고 있습니다. 객체 지향적 프로그래밍에 대해 이해하고, SOLID 원칙에 의거한 효율적이 고 명시적인 코드를 작성할 수 있습니다. scheme 언어 문법의 입력을 받아 해시함수를 통해 메모리와 해시테이블에 저장하고 linked list를 만들어 입력된 내용을 tree 형태로 저장하는 실습을 해봤습니다.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+
+- skill: Java
+  description: class를 통해 구현되는 객체 지향적 프로그래밍에 대해 이해하고 있습니다. 컴파일러와 인터프리터를 병행하는 언어로서 속도와 플랫폼 독립성을 가지는 장점에 대해 이해하고 있습니다. Garbage Collection이 이루어지는 원리를 알고 있습니다.
+
+- skill: Verilog
+  description: 코딩을 통해 기본적인 논리회로들의 연산을 수행하는 파일을 만들어 보다 복잡한 연산을 수행하는 하드웨어를 기술할 수 있습니다.
+
+
+- skill: Basic Data Structure
+  description: 학부 수업을 통해 배우는 Floyd-Warshall, Dijkstra, Bellman-Ford등의 알고리즘을 통해 주어진 조건에서 최단 경로를 찾는 실습을 해보았습니다. Binary Tree 의 구조에 대해 이해하고 있고, 그 확장인 Segment Tree나 AVL Tree 등에 대해 이해하고 있습니다. Stack과 Queue를 Tree 구조로 변환하는 방법에 대해 알고 있습니다. 시간 복잡도의 개념에 대해 이해하고 있고 작은 시간 복잡도를 갖는 것이 큰 데이터를 다루는 프로그램에서 중요하다는 사실을 알고 있습니다.
+
