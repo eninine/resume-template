@@ -135,15 +135,15 @@
       <!-- end Skills -->
       {% endif %}
 
-      {% if site.resume_section_introduction %}
-      <!-- begin introduction -->
+      {% if site.resume_section_introductions %}
+      <!-- begin introductions -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Self Introduction</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for recognition in site.data.intoductions %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
@@ -152,10 +152,7 @@
         {% endfor %}
 
       </section>
-      
-
-      
-
+    
       <footer class="page-footer">
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
