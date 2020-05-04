@@ -6,6 +6,9 @@
 
 - skill: Java
   description: class를 통해 구현되는 객체 지향적 프로그래밍에 대해 이해하고 있습니다. 컴파일러와 인터프리터를 병행하는 언어로서 속도와 플랫폼 독립성을 가지는 장점에 대해 이해하고 있습니다. Garbage Collection이 이루어지는 원리를 알고 있습니다.
+  
+- skill: Python
+  description: python의 기본 문법을 알고 있고, 유튜브 강의를 통해 django를 이용하여 간단한 웹사이트를 만드는 실습을 하였습니다.
 
 - skill: Verilog
   description: 코딩을 통해 기본적인 논리회로들의 연산을 수행하는 파일을 만들어 보다 복잡한 연산을 수행하는 하드웨어를 기술할 수 있습니다.
