@@ -14,3 +14,5 @@
 - skill: Basic Data Structure
   description: 학부 수업을 통해 배우는 Floyd-Warshall, Dijkstra, Bellman-Ford등의 알고리즘을 통해 주어진 조건에서 최단 경로를 찾는 실습을 해보았습니다. Binary Tree 의 구조에 대해 이해하고 있고, 그 확장인 Segment Tree나 AVL Tree 등에 대해 이해하고 있습니다. Stack과 Queue를 Tree 구조로 변환하는 방법에 대해 알고 있습니다. 시간 복잡도의 개념에 대해 이해하고 있고 작은 시간 복잡도를 갖는 것이 큰 데이터를 다루는 프로그램에서 중요하다는 사실을 알고 있습니다.
 
+- skill: MySQL
+  description: MySQL 첫걸음(아사이 아츠시)를 읽고 관계형 데이터베이스의 정의와 장점에 대해 알게 되었고, SQL의 표준 문법을 학습하였습니다.
